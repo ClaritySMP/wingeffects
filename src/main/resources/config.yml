@@ -1,0 +1,5 @@
+# config file for wingeffects
+
+effect:
+  type: speed  # Effect type (can be any valid effect like SPEED, JUMP, etc.)
+  amplifier: 2  # Amplifier (e.g., level 2)
